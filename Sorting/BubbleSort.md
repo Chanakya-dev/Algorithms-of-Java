@@ -1,4 +1,4 @@
-# **Bubble Sort in Java**
+## **Bubble Sort in Java**
 
 ```java
 import java.util.Arrays;
