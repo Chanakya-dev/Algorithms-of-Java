@@ -12,12 +12,12 @@
 1. Count occurrences of elements in an array
 2. Majority element (> n/2 occurrences)
 3. First non-repeating character in a string
-4. Element appearing more than n/k times
+4. Find All Elements Occurring Exactly k Times
 5. Find the mode of an array (most frequent element)
 6. Character count in a string
 7. Count elements with even/odd occurrences
 8. Frequency of words in a sentence
-9. Find element with maximum frequency
+9. Longest Subarray with Equal Frequency Elements
 10. Count distinct elements in an array
 
 ---
